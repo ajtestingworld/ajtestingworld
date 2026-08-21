@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ AJAY KUMAR MATAM
+- 👋 Hi,I’m @ AJAY KUMAR MATAM
 - 👀 I’m good at selenium automation using java,Rest assured automation,API Testing,Cloud testing,Bigdata Applications testing,ML testing and Kafka testing.
 - 🌱 I’m  working as Senior software enginerr at Gspann
 - 💞️ I’m looking to collaborate on ...
